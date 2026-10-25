@@ -1,0 +1,2726 @@
+[
+  {
+    "id": 1,
+    "title": "Frittata",
+    "description": "Fluffy Italian omelette baked with potato, onion, pancetta and Parmesan.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 25,
+    "image": "/images/frittata.jpg",
+    "wiki": [
+      "Frittata"
+    ],
+    "ingredients": [
+      "8 large eggs",
+      "1/2 cup grated Parmigiano-Reggiano",
+      "1 small potato, thinly sliced",
+      "1/2 onion, sliced",
+      "1/4 cup diced pancetta",
+      "2 tbsp olive oil",
+      "Fresh parsley",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Cook pancetta, potato and onion in olive oil in an oven-safe pan until soft.",
+      "Whisk eggs with Parmesan, parsley, salt and pepper.",
+      "Pour eggs over the vegetables and cook on low heat for 5 minutes until the edges set.",
+      "Bake at 190°C for 8-10 minutes until puffed and golden.",
+      "Rest 3 minutes, slice into wedges and serve warm."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 2,
+    "title": "Italian Croissant (Cornetto)",
+    "description": "Buttery Italian croissant with a lightly sweet dough scented with orange and vanilla.",
+    "category": "Breakfast",
+    "difficulty": "Hard",
+    "time": 180,
+    "image": "/images/italian-croissant-cornetto.jpg",
+    "wiki": [
+      "Cornetto (pastry)",
+      "Croissant"
+    ],
+    "ingredients": [
+      "3 cups bread flour",
+      "1/3 cup sugar",
+      "1 tsp instant yeast",
+      "1/2 cup milk",
+      "1 egg",
+      "Zest of 1 orange",
+      "1 tsp vanilla",
+      "1/2 cup cold butter for layering",
+      "Apricot jam or custard to fill"
+    ],
+    "instructions": [
+      "Mix flour, sugar, yeast, milk, egg, zest and vanilla into a smooth dough and chill 1 hour.",
+      "Roll out, enclose the cold butter and give two letter folds, chilling between each.",
+      "Roll to 5 mm, cut long triangles and roll each from the wide end into a crescent.",
+      "Proof 1 hour until puffy and brush with egg wash.",
+      "Bake at 190°C for 15-18 minutes until golden; fill with jam or custard if you like."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 3,
+    "title": "Ricotta Pancakes",
+    "description": "Cloud-soft pancakes made with creamy ricotta and a hint of lemon.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 25,
+    "image": "/images/ricotta-pancakes.jpg",
+    "wiki": [
+      "Pancake"
+    ],
+    "ingredients": [
+      "1 cup ricotta",
+      "3/4 cup flour",
+      "3 eggs, separated",
+      "1/2 cup milk",
+      "2 tbsp sugar",
+      "1 tsp baking powder",
+      "Zest of 1 lemon",
+      "Butter for the pan",
+      "Honey and berries to serve"
+    ],
+    "instructions": [
+      "Whisk ricotta, yolks, milk, sugar and lemon zest.",
+      "Stir in flour and baking powder until just combined.",
+      "Whip the whites to soft peaks and fold gently into the batter.",
+      "Cook scoops in a buttered pan over medium-low heat, 2-3 minutes per side.",
+      "Serve with honey and fresh berries."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 4,
+    "title": "Cappuccino French Toast",
+    "description": "Thick brioche soaked in espresso custard and dusted with cocoa.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 20,
+    "image": "/images/cappuccino-french-toast.jpg",
+    "wiki": [
+      "French toast"
+    ],
+    "ingredients": [
+      "4 thick slices brioche",
+      "2 eggs",
+      "1/2 cup milk",
+      "1/4 cup strong espresso",
+      "2 tbsp sugar",
+      "1/2 tsp cinnamon",
+      "Butter for frying",
+      "Cocoa powder and whipped cream"
+    ],
+    "instructions": [
+      "Whisk eggs, milk, espresso, sugar and cinnamon in a shallow dish.",
+      "Soak each brioche slice for 30 seconds per side.",
+      "Fry in butter over medium heat for 2-3 minutes per side until golden.",
+      "Top with whipped cream and dust with cocoa."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 5,
+    "title": "Bruschetta al Pomodoro",
+    "description": "Grilled rustic bread rubbed with garlic and topped with ripe tomatoes and basil.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/bruschetta-al-pomodoro.jpg",
+    "wiki": [
+      "Bruschetta"
+    ],
+    "ingredients": [
+      "4 slices ciabatta or country bread",
+      "4 ripe tomatoes, diced",
+      "2 garlic cloves",
+      "Fresh basil",
+      "3 tbsp extra virgin olive oil",
+      "1 tsp balsamic vinegar",
+      "Sea salt"
+    ],
+    "instructions": [
+      "Toss tomatoes with basil, oil, vinegar and salt; rest 10 minutes.",
+      "Grill or toast the bread until crisp and charred at the edges.",
+      "Rub each slice with a halved garlic clove.",
+      "Spoon tomatoes on top and drizzle with olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 6,
+    "title": "Italian Baked Eggs",
+    "description": "Eggs baked in spicy tomato sauce with Parmesan, known as uova in purgatorio.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 30,
+    "image": "/images/italian-baked-eggs.jpg",
+    "wiki": [
+      "Eggs in purgatory",
+      "Shakshouka",
+      "Baked eggs"
+    ],
+    "ingredients": [
+      "4 eggs",
+      "2 cups crushed tomatoes",
+      "2 garlic cloves",
+      "1/2 tsp chilli flakes",
+      "2 tbsp olive oil",
+      "Fresh basil",
+      "Grated Parmesan",
+      "Crusty bread to serve"
+    ],
+    "instructions": [
+      "Sauté garlic and chilli in olive oil, add tomatoes and simmer 10 minutes.",
+      "Make four wells in the sauce and crack in the eggs.",
+      "Cover and cook 5-7 minutes, or bake at 190°C, until the whites set.",
+      "Top with basil and Parmesan and serve with bread."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 7,
+    "title": "Bomboloni",
+    "description": "Fluffy Italian doughnuts rolled in sugar and filled with custard.",
+    "category": "Breakfast",
+    "difficulty": "Medium",
+    "time": 120,
+    "image": "/images/bomboloni.jpg",
+    "wiki": [
+      "Bomboloni"
+    ],
+    "ingredients": [
+      "3 cups flour",
+      "1/4 cup sugar",
+      "2 1/4 tsp yeast",
+      "3/4 cup warm milk",
+      "2 eggs",
+      "4 tbsp soft butter",
+      "Oil for frying",
+      "Sugar for coating",
+      "Pastry cream to fill"
+    ],
+    "instructions": [
+      "Mix flour, sugar, yeast, milk, eggs and butter; knead 8 minutes until smooth.",
+      "Let rise 1 hour until doubled.",
+      "Roll to 2 cm, cut rounds and proof 30 minutes.",
+      "Fry in 170°C oil for 2 minutes per side until golden.",
+      "Roll in sugar, then pipe in pastry cream."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 8,
+    "title": "Prosciutto and Cheese Panini",
+    "description": "Crispy pressed ciabatta with prosciutto crudo and melting fontina.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/prosciutto-and-cheese-panini.jpg",
+    "wiki": [
+      "Panini (sandwich)",
+      "Panini"
+    ],
+    "ingredients": [
+      "2 ciabatta rolls",
+      "6 slices prosciutto",
+      "120g fontina or provolone",
+      "Arugula",
+      "1 tbsp olive oil",
+      "1 tsp Dijon mustard (optional)"
+    ],
+    "instructions": [
+      "Slice rolls and spread lightly with mustard.",
+      "Layer cheese, prosciutto and arugula.",
+      "Brush the outside with olive oil.",
+      "Press in a panini press or heavy skillet for 4-5 minutes until crisp and melted."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 9,
+    "title": "Spinach and Ricotta Omelette",
+    "description": "Soft omelette folded around garlicky spinach and creamy ricotta.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/spinach-and-ricotta-omelette.jpg",
+    "wiki": [
+      "Omelette"
+    ],
+    "ingredients": [
+      "3 eggs",
+      "1 cup baby spinach",
+      "1/4 cup ricotta",
+      "1 garlic clove",
+      "1 tbsp butter",
+      "Grated Parmesan",
+      "Salt, pepper and nutmeg"
+    ],
+    "instructions": [
+      "Wilt spinach with garlic in a little butter and squeeze dry.",
+      "Mix spinach with ricotta, a pinch of nutmeg and salt.",
+      "Beat eggs, pour into a hot buttered pan and cook gently.",
+      "Spoon filling onto one half, fold over and top with Parmesan."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 10,
+    "title": "Italian Breakfast Sandwich",
+    "description": "Toasted focaccia with fried egg, mortadella and mozzarella.",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/italian-breakfast-sandwich.jpg",
+    "wiki": [
+      "Breakfast sandwich"
+    ],
+    "ingredients": [
+      "2 squares focaccia",
+      "2 eggs",
+      "4 slices mortadella",
+      "4 slices fresh mozzarella",
+      "Handful of arugula",
+      "Olive oil",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Split and toast the focaccia.",
+      "Fry eggs in olive oil until the whites are set.",
+      "Layer mortadella, mozzarella and arugula on the base.",
+      "Top with eggs, close the sandwich and press lightly."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 11,
+    "title": "Margherita Pizza",
+    "description": "Neapolitan-style pizza with San Marzano tomato, mozzarella and basil.",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "time": 90,
+    "image": "/images/margherita-pizza.jpg",
+    "wiki": [
+      "Pizza Margherita"
+    ],
+    "ingredients": [
+      "3 1/3 cups 00 flour",
+      "1 1/4 cups warm water",
+      "1 tsp salt",
+      "1/2 tsp yeast",
+      "1 cup crushed San Marzano tomatoes",
+      "200g fresh mozzarella",
+      "Fresh basil",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Mix flour, water, salt and yeast; knead 8 minutes and rest 1 hour.",
+      "Divide into balls and rest 20 more minutes.",
+      "Stretch each ball by hand into a thin round.",
+      "Top with tomatoes and torn mozzarella; bake at your oven's highest setting (250°C+) for 6-8 minutes.",
+      "Finish with basil and olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 12,
+    "title": "Spaghetti Carbonara",
+    "description": "The Roman classic with guanciale, eggs and Pecorino. No cream.",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "time": 25,
+    "image": "/images/spaghetti-carbonara.jpg",
+    "wiki": [
+      "Carbonara"
+    ],
+    "ingredients": [
+      "400g spaghetti",
+      "150g guanciale or pancetta",
+      "4 egg yolks plus 1 whole egg",
+      "1 cup grated Pecorino Romano",
+      "Freshly cracked black pepper",
+      "Salt for the pasta water"
+    ],
+    "instructions": [
+      "Crisp the guanciale slowly in a dry pan.",
+      "Whisk yolks, egg, Pecorino and plenty of pepper.",
+      "Boil spaghetti until al dente and reserve 1 cup pasta water.",
+      "Toss pasta with guanciale off the heat, then stir in the egg mix with splashes of pasta water until creamy.",
+      "Serve immediately with extra Pecorino."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 13,
+    "title": "Lasagna alla Bolognese",
+    "description": "Layers of slow ragù, béchamel and pasta baked until bubbling.",
+    "category": "Lunch",
+    "difficulty": "Hard",
+    "time": 180,
+    "image": "/images/lasagna-alla-bolognese.jpg",
+    "wiki": [
+      "Lasagne"
+    ],
+    "ingredients": [
+      "12 lasagna sheets",
+      "500g ground beef and pork",
+      "1 onion, 1 carrot and 1 celery stick, finely chopped",
+      "2 cups passata",
+      "1/2 cup red wine",
+      "4 tbsp butter, 4 tbsp flour and 3 cups milk for béchamel",
+      "1 cup grated Parmesan"
+    ],
+    "instructions": [
+      "Brown the meat, add the soffritto, wine and passata, then simmer 1 1/2 hours.",
+      "Make béchamel: melt butter, whisk in flour, then add milk until thick.",
+      "Layer sauce, pasta, béchamel and Parmesan in a dish, repeating.",
+      "Bake at 180°C for 35-40 minutes until golden.",
+      "Rest 15 minutes before cutting."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 14,
+    "title": "Chicken Parmigiana",
+    "description": "Crispy breaded chicken topped with marinara and melted mozzarella.",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "time": 45,
+    "image": "/images/chicken-parmigiana.jpg",
+    "wiki": [
+      "Chicken parmigiana",
+      "Chicken parmesan"
+    ],
+    "ingredients": [
+      "2 chicken breasts, halved and flattened",
+      "1 cup breadcrumbs",
+      "1/2 cup Parmesan",
+      "2 eggs",
+      "1 cup marinara sauce",
+      "200g mozzarella",
+      "Olive oil for frying",
+      "Basil"
+    ],
+    "instructions": [
+      "Dip chicken in egg, then in breadcrumbs mixed with Parmesan.",
+      "Fry in olive oil until golden, 3-4 minutes per side.",
+      "Top with marinara and mozzarella.",
+      "Bake at 200°C for 10-12 minutes until bubbly and garnish with basil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 15,
+    "title": "Caprese Salad",
+    "description": "Ripe tomato, buffalo mozzarella and basil with good olive oil.",
+    "category": "Lunch",
+    "difficulty": "Easy",
+    "time": 10,
+    "image": "/images/caprese-salad.jpg",
+    "wiki": [
+      "Caprese salad"
+    ],
+    "ingredients": [
+      "4 ripe tomatoes",
+      "250g buffalo mozzarella",
+      "Fresh basil leaves",
+      "3 tbsp extra virgin olive oil",
+      "Flaky sea salt",
+      "Balsamic glaze (optional)"
+    ],
+    "instructions": [
+      "Slice tomatoes and mozzarella evenly.",
+      "Arrange alternating with basil leaves on a plate.",
+      "Season with salt and drizzle with olive oil and glaze."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 16,
+    "title": "Pesto Pasta",
+    "description": "Pasta tossed with fresh Genovese basil pesto.",
+    "category": "Lunch",
+    "difficulty": "Easy",
+    "time": 20,
+    "image": "/images/pesto-pasta.jpg",
+    "wiki": [
+      "Pasta al pesto",
+      "Trofie al pesto",
+      "Pesto alla genovese"
+    ],
+    "ingredients": [
+      "350g pasta",
+      "2 cups basil leaves",
+      "1/3 cup pine nuts",
+      "1 garlic clove",
+      "1/2 cup Parmesan",
+      "1/3 cup olive oil",
+      "1 boiled potato and green beans (optional)"
+    ],
+    "instructions": [
+      "Blitz basil, pine nuts, garlic, Parmesan and oil into a pesto.",
+      "Boil pasta (with potato and beans if using) until al dente.",
+      "Toss pasta with pesto and a splash of pasta water.",
+      "Serve with extra Parmesan."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 17,
+    "title": "Panini al Prosciutto",
+    "description": "Warm pressed panini with prosciutto, mozzarella and sun-dried tomato.",
+    "category": "Lunch",
+    "difficulty": "Easy",
+    "time": 12,
+    "image": "/images/panini-al-prosciutto.jpg",
+    "wiki": [
+      "Panini al prosciutto",
+      "Panini (sandwich)"
+    ],
+    "ingredients": [
+      "2 panini rolls",
+      "6 slices prosciutto di Parma",
+      "150g mozzarella",
+      "4 sun-dried tomatoes",
+      "Fresh basil",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Fill rolls with mozzarella, prosciutto, tomatoes and basil.",
+      "Brush the outside with olive oil.",
+      "Grill in a press for 4 minutes until the cheese melts."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 18,
+    "title": "Ravioli Ricotta e Spinaci",
+    "description": "Handmade pasta pillows filled with ricotta and spinach in sage butter.",
+    "category": "Lunch",
+    "difficulty": "Hard",
+    "time": 90,
+    "image": "/images/ravioli-ricotta-e-spinaci.jpg",
+    "wiki": [
+      "Ravioli"
+    ],
+    "ingredients": [
+      "2 cups 00 flour",
+      "3 eggs",
+      "250g ricotta",
+      "1 cup cooked chopped spinach",
+      "1/2 cup Parmesan",
+      "Nutmeg",
+      "4 tbsp butter",
+      "Fresh sage"
+    ],
+    "instructions": [
+      "Make dough from flour and eggs; knead and rest 30 minutes.",
+      "Mix ricotta, spinach, Parmesan, nutmeg and salt for the filling.",
+      "Roll the dough thin, place teaspoons of filling, cover, seal and cut.",
+      "Boil 3-4 minutes until they float.",
+      "Toss in browned sage butter and serve."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 19,
+    "title": "Gnocchi al Pomodoro",
+    "description": "Pillowy potato gnocchi in a simple basil tomato sauce.",
+    "category": "Lunch",
+    "difficulty": "Medium",
+    "time": 60,
+    "image": "/images/gnocchi-al-pomodoro.jpg",
+    "wiki": [
+      "Gnocchi al pomodoro",
+      "Gnocchi"
+    ],
+    "ingredients": [
+      "1 kg floury potatoes",
+      "1 1/2 cups flour",
+      "1 egg",
+      "1 tsp salt",
+      "2 cups tomato passata",
+      "2 garlic cloves",
+      "Olive oil",
+      "Basil and Parmesan"
+    ],
+    "instructions": [
+      "Boil potatoes whole, peel and rice them while hot.",
+      "Mix with flour, egg and salt into a soft dough; roll into ropes and cut.",
+      "Simmer garlic in oil, add passata and cook 15 minutes.",
+      "Boil gnocchi until they float, about 2 minutes.",
+      "Toss with sauce, basil and Parmesan."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 20,
+    "title": "Italian Minestrone Soup",
+    "description": "Hearty vegetable and bean soup with small pasta and a Parmesan rind.",
+    "category": "Lunch",
+    "difficulty": "Easy",
+    "time": 50,
+    "image": "/images/italian-minestrone-soup.jpg",
+    "wiki": [
+      "Minestrone"
+    ],
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, 1 carrot and 1 celery stick, diced",
+      "2 zucchini",
+      "1 can cannellini beans",
+      "1 can chopped tomatoes",
+      "6 cups vegetable stock",
+      "1 cup ditalini pasta",
+      "Parmesan rind",
+      "Fresh basil"
+    ],
+    "instructions": [
+      "Sauté onion, carrot and celery in oil for 8 minutes.",
+      "Add zucchini, tomatoes, stock and Parmesan rind; simmer 20 minutes.",
+      "Add beans and pasta; cook 10 minutes more.",
+      "Remove the rind, stir in basil and serve with olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 21,
+    "title": "Fettuccine Alfredo",
+    "description": "Silky fettuccine tossed in butter and Parmigiano-Reggiano.",
+    "category": "Dinner",
+    "difficulty": "Easy",
+    "time": 25,
+    "image": "/images/fettuccine-alfredo.jpg",
+    "wiki": [
+      "Fettuccine Alfredo",
+      "Fettuccine"
+    ],
+    "ingredients": [
+      "400g fettuccine",
+      "6 tbsp butter",
+      "1 cup freshly grated Parmigiano-Reggiano",
+      "1/2 cup heavy cream (optional)",
+      "Black pepper",
+      "Nutmeg"
+    ],
+    "instructions": [
+      "Boil fettuccine until al dente and save 1 cup pasta water.",
+      "Melt butter (and cream) in a wide pan.",
+      "Add pasta, Parmesan and splashes of pasta water; toss until glossy.",
+      "Finish with pepper and nutmeg."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 22,
+    "title": "Risotto alla Milanese",
+    "description": "Golden saffron risotto, creamy and rich with Parmesan.",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "time": 40,
+    "image": "/images/risotto-alla-milanese.jpg",
+    "wiki": [
+      "Risotto alla milanese",
+      "Risotto"
+    ],
+    "ingredients": [
+      "1 1/2 cups Carnaroli or Arborio rice",
+      "1 tsp saffron threads",
+      "1 litre hot beef or vegetable stock",
+      "1 small onion",
+      "1/2 cup white wine",
+      "4 tbsp butter",
+      "3/4 cup Parmesan"
+    ],
+    "instructions": [
+      "Steep saffron in a little hot stock.",
+      "Sweat onion in half the butter and toast the rice for 2 minutes.",
+      "Add wine, then stock ladle by ladle, stirring, for about 18 minutes.",
+      "Stir in saffron, remaining butter and Parmesan until creamy."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 23,
+    "title": "Osso Buco",
+    "description": "Braised veal shanks with white wine and vegetables, finished with gremolata.",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "time": 150,
+    "image": "/images/osso-buco.jpg",
+    "wiki": [
+      "Ossobuco"
+    ],
+    "ingredients": [
+      "4 veal shanks",
+      "1/3 cup flour",
+      "1 onion, 1 carrot and 1 celery stick",
+      "1 cup white wine",
+      "1 cup stock",
+      "1 cup chopped tomatoes",
+      "Gremolata: lemon zest, garlic and parsley"
+    ],
+    "instructions": [
+      "Tie, season and flour the shanks; brown in oil and butter.",
+      "Soften the vegetables, then add wine, stock and tomatoes.",
+      "Return shanks, cover and braise at 160°C for 2 hours.",
+      "Mix the gremolata and sprinkle over before serving with risotto."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 24,
+    "title": "Chicken Piccata",
+    "description": "Pan-fried chicken cutlets in a lemon, caper and white wine sauce.",
+    "category": "Dinner",
+    "difficulty": "Easy",
+    "time": 30,
+    "image": "/images/chicken-piccata.jpg",
+    "wiki": [
+      "Piccata"
+    ],
+    "ingredients": [
+      "2 chicken breasts, sliced into cutlets",
+      "1/2 cup flour",
+      "3 tbsp butter",
+      "2 tbsp olive oil",
+      "1/2 cup white wine",
+      "1/2 cup chicken stock",
+      "3 tbsp lemon juice",
+      "2 tbsp capers",
+      "Parsley"
+    ],
+    "instructions": [
+      "Flour the cutlets and sear in oil and butter, 3 minutes per side; set aside.",
+      "Deglaze with wine, add stock, lemon juice and capers; reduce by half.",
+      "Swirl in cold butter, return the chicken and spoon sauce over.",
+      "Garnish with parsley."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 25,
+    "title": "Eggplant Parmigiana",
+    "description": "Layers of fried aubergine, tomato sauce, basil and mozzarella.",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "time": 90,
+    "image": "/images/eggplant-parmigiana.jpg",
+    "wiki": [
+      "Melanzane alla parmigiana",
+      "Parmigiana"
+    ],
+    "ingredients": [
+      "3 large eggplants",
+      "2 cups tomato sauce",
+      "300g mozzarella",
+      "1 cup Parmesan",
+      "Fresh basil",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Slice eggplant, salt for 30 minutes and pat dry.",
+      "Fry or roast the slices until golden.",
+      "Layer sauce, eggplant, basil, mozzarella and Parmesan in a dish.",
+      "Bake at 190°C for 30 minutes until bubbling and browned."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 26,
+    "title": "Spaghetti Bolognese",
+    "description": "Slow-simmered meat ragù over spaghetti, loved around the world.",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "time": 120,
+    "image": "/images/spaghetti-bolognese.jpg",
+    "wiki": [
+      "Spaghetti alla Bolognese",
+      "Bolognese sauce"
+    ],
+    "ingredients": [
+      "400g spaghetti",
+      "400g ground beef",
+      "100g pancetta",
+      "1 onion, 1 carrot and 1 celery stick",
+      "2 tbsp tomato paste",
+      "1 can chopped tomatoes",
+      "1/2 cup red wine",
+      "1/2 cup milk"
+    ],
+    "instructions": [
+      "Render the pancetta, add the soffritto and cook until soft.",
+      "Brown the beef, stir in paste and wine, then reduce.",
+      "Add tomatoes and milk and simmer on low for 1 1/2 hours.",
+      "Toss with al dente spaghetti and Parmesan."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 27,
+    "title": "Seafood Linguine",
+    "description": "Linguine with clams, mussels and prawns in garlic white wine sauce.",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "time": 35,
+    "image": "/images/seafood-linguine.jpg",
+    "wiki": [
+      "Spaghetti alle vongole",
+      "Linguine allo scoglio",
+      "Seafood pasta"
+    ],
+    "ingredients": [
+      "350g linguine",
+      "300g clams",
+      "300g mussels",
+      "200g prawns",
+      "3 garlic cloves",
+      "1/2 cup white wine",
+      "1 cup cherry tomatoes",
+      "Chilli flakes and parsley",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Sizzle garlic and chilli in oil; add tomatoes and wine.",
+      "Add clams and mussels, cover until they open, 4-5 minutes; add prawns for the last 2 minutes.",
+      "Toss in al dente linguine with a splash of pasta water.",
+      "Finish with parsley and olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 28,
+    "title": "Four Cheese Pizza",
+    "description": "Pizza quattro formaggi with mozzarella, gorgonzola, fontina and Parmesan.",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "time": 80,
+    "image": "/images/four-cheese-pizza.jpg",
+    "wiki": [
+      "Pizza quattro formaggi",
+      "Pizza"
+    ],
+    "ingredients": [
+      "1 pizza dough ball",
+      "100g mozzarella",
+      "60g gorgonzola",
+      "60g fontina",
+      "40g Parmesan",
+      "Olive oil",
+      "Fresh basil or rosemary"
+    ],
+    "instructions": [
+      "Stretch the dough and brush with olive oil.",
+      "Scatter all four cheeses evenly.",
+      "Bake at 250°C for 7-9 minutes until blistered.",
+      "Finish with herbs."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 29,
+    "title": "Beef Braciole",
+    "description": "Thin beef rolls stuffed with Parmesan, garlic and herbs, braised in tomato sauce.",
+    "category": "Dinner",
+    "difficulty": "Hard",
+    "time": 150,
+    "image": "/images/beef-braciole.jpg",
+    "wiki": [
+      "Braciole"
+    ],
+    "ingredients": [
+      "6 thin slices top round",
+      "1 cup breadcrumbs",
+      "1/2 cup Parmesan",
+      "3 garlic cloves",
+      "Parsley",
+      "3 cups tomato sauce",
+      "1/2 cup red wine",
+      "Olive oil",
+      "Kitchen twine"
+    ],
+    "instructions": [
+      "Pound the beef thin and spread with breadcrumbs, Parmesan, garlic and parsley.",
+      "Roll up and tie with twine.",
+      "Brown the rolls in olive oil, add wine and let it reduce.",
+      "Pour in sauce, cover and simmer 1 1/2-2 hours.",
+      "Remove twine and serve with pasta."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 30,
+    "title": "Mushroom Risotto",
+    "description": "Creamy risotto with porcini and cremini mushrooms.",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "time": 40,
+    "image": "/images/mushroom-risotto.jpg",
+    "wiki": [
+      "Mushroom risotto",
+      "Risotto ai funghi",
+      "Risotto"
+    ],
+    "ingredients": [
+      "1 1/2 cups Arborio rice",
+      "300g mixed mushrooms",
+      "10g dried porcini, soaked",
+      "1 litre hot stock",
+      "1 shallot",
+      "1/2 cup white wine",
+      "3 tbsp butter",
+      "1/2 cup Parmesan",
+      "Thyme"
+    ],
+    "instructions": [
+      "Sauté the mushrooms until golden and set aside.",
+      "Sweat the shallot, toast the rice and add wine.",
+      "Add stock and the porcini soaking liquid gradually for 18 minutes.",
+      "Fold in mushrooms, butter and Parmesan."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 31,
+    "title": "Vegan Margherita Pizza",
+    "description": "Classic Margherita with cashew mozzarella and fresh basil.",
+    "category": "Vegan",
+    "difficulty": "Medium",
+    "time": 90,
+    "image": "/images/vegan-margherita-pizza.jpg",
+    "wiki": [
+      "Pizza"
+    ],
+    "ingredients": [
+      "1 vegan pizza dough ball",
+      "1 cup crushed tomatoes",
+      "1 cup vegan mozzarella or cashew cheese",
+      "Fresh basil",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Stretch the dough into a round.",
+      "Spread tomatoes and dot with vegan mozzarella.",
+      "Bake at 250°C for 7-8 minutes.",
+      "Top with basil and olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 32,
+    "title": "Pasta alla Norma",
+    "description": "Sicilian pasta with fried eggplant, tomato and basil.",
+    "category": "Vegan",
+    "difficulty": "Medium",
+    "time": 40,
+    "image": "/images/pasta-alla-norma.jpg",
+    "wiki": [
+      "Pasta alla Norma"
+    ],
+    "ingredients": [
+      "350g rigatoni",
+      "2 eggplants, cubed",
+      "2 cups tomato passata",
+      "3 garlic cloves",
+      "Basil",
+      "Olive oil",
+      "Chilli flakes",
+      "Toasted breadcrumbs for topping"
+    ],
+    "instructions": [
+      "Fry the eggplant in olive oil until golden.",
+      "Simmer garlic, chilli and passata for 15 minutes.",
+      "Toss al dente rigatoni with the sauce and eggplant.",
+      "Top with basil and toasted breadcrumbs."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 33,
+    "title": "Spaghetti Aglio e Olio",
+    "description": "Garlic, chilli and olive oil: five ingredients, fifteen minutes.",
+    "category": "Vegan",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/spaghetti-aglio-e-olio.jpg",
+    "wiki": [
+      "Spaghetti aglio e olio",
+      "Aglio e olio"
+    ],
+    "ingredients": [
+      "400g spaghetti",
+      "6 garlic cloves, sliced",
+      "1/2 cup extra virgin olive oil",
+      "1 tsp chilli flakes",
+      "Parsley",
+      "Salt"
+    ],
+    "instructions": [
+      "Boil spaghetti and reserve pasta water.",
+      "Gently fry garlic in oil until pale gold, then add chilli.",
+      "Toss pasta in the oil with pasta water until emulsified.",
+      "Finish with parsley."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 34,
+    "title": "Vegan Pesto Pasta",
+    "description": "Basil pesto made with toasted pine nuts and nutritional yeast.",
+    "category": "Vegan",
+    "difficulty": "Easy",
+    "time": 20,
+    "image": "/images/vegan-pesto-pasta.jpg",
+    "wiki": [
+      "Trofie al pesto",
+      "Pasta al pesto"
+    ],
+    "ingredients": [
+      "350g trofie or fusilli",
+      "2 cups basil",
+      "1/3 cup pine nuts",
+      "2 tbsp nutritional yeast",
+      "1 garlic clove",
+      "1/3 cup olive oil",
+      "Lemon juice"
+    ],
+    "instructions": [
+      "Blend basil, nuts, yeast, garlic, oil and lemon.",
+      "Cook the pasta and reserve some water.",
+      "Toss with pesto and a little water until glossy."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 35,
+    "title": "Ribollita",
+    "description": "Tuscan twice-boiled bread and kale soup.",
+    "category": "Vegan",
+    "difficulty": "Easy",
+    "time": 75,
+    "image": "/images/ribollita.jpg",
+    "wiki": [
+      "Ribollita"
+    ],
+    "ingredients": [
+      "1 onion, 1 carrot and 1 celery stick",
+      "3 garlic cloves",
+      "1 bunch cavolo nero or kale",
+      "1 can cannellini beans",
+      "1 can tomatoes",
+      "4 cups vegetable stock",
+      "4 slices stale bread",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Soften the soffritto and garlic in olive oil.",
+      "Add kale, tomatoes, beans and stock; simmer 40 minutes.",
+      "Tear in the stale bread and stir until thick.",
+      "Rest, then serve drizzled with olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 36,
+    "title": "Tuscan White Bean Soup",
+    "description": "Creamy cannellini soup with rosemary and garlic.",
+    "category": "Vegan",
+    "difficulty": "Easy",
+    "time": 45,
+    "image": "/images/tuscan-white-bean-soup.jpg",
+    "wiki": [
+      "Pasta e fagioli",
+      "Tuscan bean soup"
+    ],
+    "ingredients": [
+      "2 cans cannellini beans",
+      "4 garlic cloves",
+      "1 onion",
+      "1 sprig rosemary",
+      "4 cups vegetable stock",
+      "3 tbsp olive oil",
+      "Crusty bread"
+    ],
+    "instructions": [
+      "Sauté onion, garlic and rosemary in oil.",
+      "Add beans and stock; simmer 25 minutes.",
+      "Blend half the soup and stir it back in.",
+      "Serve with bread and olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 37,
+    "title": "Vegan Mushroom Risotto",
+    "description": "Creamy dairy-free risotto with porcini and nutritional yeast.",
+    "category": "Vegan",
+    "difficulty": "Medium",
+    "time": 40,
+    "image": "/images/vegan-mushroom-risotto.jpg",
+    "wiki": [
+      "Mushroom risotto",
+      "Risotto ai funghi",
+      "Risotto"
+    ],
+    "ingredients": [
+      "1 1/2 cups Arborio rice",
+      "300g mixed mushrooms",
+      "10g dried porcini, soaked",
+      "1 litre vegetable stock",
+      "1 shallot",
+      "1/2 cup white wine",
+      "3 tbsp olive oil",
+      "2 tbsp nutritional yeast"
+    ],
+    "instructions": [
+      "Sauté the mushrooms in olive oil until golden; set aside.",
+      "Sweat the shallot, toast the rice and add wine.",
+      "Add stock and porcini liquid gradually for 18 minutes.",
+      "Fold in mushrooms and nutritional yeast."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 38,
+    "title": "Pasta e Ceci",
+    "description": "Rustic Roman pasta and chickpea stew with rosemary.",
+    "category": "Vegan",
+    "difficulty": "Easy",
+    "time": 40,
+    "image": "/images/pasta-e-ceci.jpg",
+    "wiki": [
+      "Pasta e ceci",
+      "Pasta e fagioli"
+    ],
+    "ingredients": [
+      "1 can chickpeas",
+      "150g ditalini",
+      "2 garlic cloves",
+      "1 sprig rosemary",
+      "2 tbsp tomato paste",
+      "4 cups vegetable stock",
+      "3 tbsp olive oil",
+      "Chilli flakes"
+    ],
+    "instructions": [
+      "Sizzle garlic, rosemary and chilli in oil; stir in tomato paste.",
+      "Add chickpeas and stock and simmer 15 minutes.",
+      "Mash a third of the chickpeas for creaminess.",
+      "Add pasta and cook until tender; finish with olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 39,
+    "title": "Roasted Vegetable Bruschetta",
+    "description": "Charred bread piled with roasted peppers, zucchini and eggplant.",
+    "category": "Vegan",
+    "difficulty": "Easy",
+    "time": 35,
+    "image": "/images/roasted-vegetable-bruschetta.jpg",
+    "wiki": [
+      "Crostini",
+      "Bruschetta"
+    ],
+    "ingredients": [
+      "4 slices country bread",
+      "1 red pepper",
+      "1 zucchini",
+      "1 small eggplant",
+      "2 garlic cloves",
+      "Olive oil",
+      "Balsamic vinegar",
+      "Basil"
+    ],
+    "instructions": [
+      "Dice the vegetables, toss in oil and roast at 220°C for 20 minutes.",
+      "Toast the bread and rub with garlic.",
+      "Dress the vegetables with balsamic and basil.",
+      "Pile onto the toasts and drizzle with olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 40,
+    "title": "Vegan Eggplant Parmigiana",
+    "description": "Baked eggplant layers with tomato sauce and a golden almond-breadcrumb crust.",
+    "category": "Vegan",
+    "difficulty": "Medium",
+    "time": 80,
+    "image": "/images/vegan-eggplant-parmigiana.jpg",
+    "wiki": [
+      "Melanzane alla parmigiana",
+      "Parmigiana"
+    ],
+    "ingredients": [
+      "3 large eggplants",
+      "2 cups tomato sauce",
+      "1 cup vegan mozzarella",
+      "1/2 cup breadcrumbs",
+      "1/4 cup ground almonds",
+      "Fresh basil",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Slice and roast the eggplant until tender.",
+      "Layer sauce, eggplant, basil and vegan mozzarella in a dish.",
+      "Mix breadcrumbs, almonds and oil and scatter on top.",
+      "Bake at 190°C for 25 minutes until golden."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 41,
+    "title": "Tiramisu",
+    "description": "Espresso-soaked ladyfingers layered with whipped mascarpone cream.",
+    "category": "Desserts",
+    "difficulty": "Medium",
+    "time": 45,
+    "image": "/images/tiramisu.jpg",
+    "wiki": [
+      "Tiramisu"
+    ],
+    "ingredients": [
+      "6 egg yolks",
+      "3/4 cup sugar",
+      "500g mascarpone",
+      "1 1/2 cups strong espresso, cooled",
+      "2 tbsp marsala or rum",
+      "24 savoiardi ladyfingers",
+      "Cocoa powder"
+    ],
+    "instructions": [
+      "Whisk yolks and sugar over a bain-marie until thick; cool, then beat in mascarpone.",
+      "Mix espresso with marsala.",
+      "Dip ladyfingers quickly and layer in a dish, then cover with cream; repeat.",
+      "Chill at least 6 hours and dust with cocoa before serving."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 42,
+    "title": "Panna Cotta",
+    "description": "Silky cooked cream dessert with berry coulis.",
+    "category": "Desserts",
+    "difficulty": "Easy",
+    "time": 20,
+    "image": "/images/panna-cotta.jpg",
+    "wiki": [
+      "Panna cotta"
+    ],
+    "ingredients": [
+      "2 cups heavy cream",
+      "1 cup milk",
+      "1/3 cup sugar",
+      "1 vanilla pod",
+      "2 1/2 tsp gelatin",
+      "Berries for coulis"
+    ],
+    "instructions": [
+      "Bloom the gelatin in cold water.",
+      "Heat cream, milk, sugar and vanilla until steaming; stir in gelatin.",
+      "Pour into glasses and chill 4 hours until set.",
+      "Serve with berry coulis."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 43,
+    "title": "Cannoli Siciliani",
+    "description": "Crisp fried shells filled with sweet ricotta and chocolate chips.",
+    "category": "Desserts",
+    "difficulty": "Hard",
+    "time": 90,
+    "image": "/images/cannoli-siciliani.jpg",
+    "wiki": [
+      "Cannoli"
+    ],
+    "ingredients": [
+      "2 cups flour",
+      "2 tbsp sugar",
+      "2 tbsp butter",
+      "1/2 cup Marsala",
+      "500g sheep or cow ricotta, drained",
+      "3/4 cup powdered sugar",
+      "1/2 cup chocolate chips",
+      "Pistachios",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Make a stiff dough from flour, sugar, butter and Marsala; rest 1 hour.",
+      "Roll thin, cut circles and wrap around cannoli tubes.",
+      "Fry at 180°C until bubbly and golden; cool and slide off.",
+      "Beat ricotta with powdered sugar and fold in chocolate chips.",
+      "Pipe filling just before serving and dip ends in pistachio."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 44,
+    "title": "Classic Italian Gelato",
+    "description": "Dense, silky custard gelato, churned slowly.",
+    "category": "Desserts",
+    "difficulty": "Medium",
+    "time": 60,
+    "image": "/images/classic-italian-gelato.jpg",
+    "wiki": [
+      "Gelato al cioccolato",
+      "Gelato"
+    ],
+    "ingredients": [
+      "2 cups whole milk",
+      "1 cup heavy cream",
+      "3/4 cup sugar",
+      "5 egg yolks",
+      "1 vanilla pod"
+    ],
+    "instructions": [
+      "Heat milk, cream and vanilla until steaming.",
+      "Whisk yolks and sugar, temper with hot milk and cook to 82°C.",
+      "Strain, chill overnight.",
+      "Churn in an ice-cream machine and freeze 2 hours."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 45,
+    "title": "Affogato",
+    "description": "Hot espresso poured over vanilla gelato.",
+    "category": "Desserts",
+    "difficulty": "Easy",
+    "time": 5,
+    "image": "/images/affogato.jpg",
+    "wiki": [
+      "Affogato"
+    ],
+    "ingredients": [
+      "2 scoops vanilla gelato",
+      "1 shot hot espresso",
+      "Crushed amaretti biscuits (optional)"
+    ],
+    "instructions": [
+      "Place gelato in a chilled glass.",
+      "Pour the hot espresso over at the table.",
+      "Top with crushed amaretti."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 46,
+    "title": "Italian Ricotta Cheesecake",
+    "description": "Light baked cheesecake with ricotta, lemon and a crumbly base.",
+    "category": "Desserts",
+    "difficulty": "Medium",
+    "time": 90,
+    "image": "/images/italian-ricotta-cheesecake.jpg",
+    "wiki": [
+      "Ricotta cheesecake",
+      "Cheesecake"
+    ],
+    "ingredients": [
+      "500g ricotta",
+      "1/2 cup sugar",
+      "3 eggs",
+      "Zest of 1 lemon",
+      "2 tbsp flour",
+      "200g shortbread or pasta frolla base"
+    ],
+    "instructions": [
+      "Press the crumb base into a tin and chill.",
+      "Beat ricotta, sugar, eggs, zest and flour until smooth.",
+      "Pour onto the base.",
+      "Bake at 170°C for 45 minutes; cool in the oven."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 47,
+    "title": "Sfogliatelle",
+    "description": "Shell-shaped crisp pastry with semolina and ricotta filling.",
+    "category": "Desserts",
+    "difficulty": "Hard",
+    "time": 240,
+    "image": "/images/sfogliatelle.jpg",
+    "wiki": [
+      "Sfogliatella"
+    ],
+    "ingredients": [
+      "3 cups flour",
+      "1/2 cup lard or butter, soft",
+      "1 cup water",
+      "Filling: 1 cup semolina cooked in milk, 1 cup ricotta, 1/2 cup sugar, candied orange peel, cinnamon",
+      "Powdered sugar"
+    ],
+    "instructions": [
+      "Make a firm dough, rest, then roll paper-thin and brush with lard.",
+      "Roll into a tight log and chill overnight.",
+      "Slice, shape into cones and fill with the cooled semolina-ricotta mixture.",
+      "Bake at 200°C for 25 minutes and dust with sugar."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 48,
+    "title": "Zeppole",
+    "description": "Fried choux doughnuts topped with custard and amarena cherries.",
+    "category": "Desserts",
+    "difficulty": "Medium",
+    "time": 45,
+    "image": "/images/zeppole.jpg",
+    "wiki": [
+      "Zeppole",
+      "Zeppola"
+    ],
+    "ingredients": [
+      "1 cup water",
+      "4 tbsp butter",
+      "1 cup flour",
+      "4 eggs",
+      "Oil for frying",
+      "Pastry cream",
+      "Amarena cherries",
+      "Powdered sugar"
+    ],
+    "instructions": [
+      "Boil water and butter, add flour and stir into a ball; cool slightly.",
+      "Beat in eggs one at a time to a glossy paste.",
+      "Pipe rings onto paper and fry in 170°C oil until golden.",
+      "Top with pastry cream, cherries and sugar."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 49,
+    "title": "Crostata di Frutta",
+    "description": "Buttery pasta frolla tart with pastry cream and fresh fruit.",
+    "category": "Desserts",
+    "difficulty": "Medium",
+    "time": 80,
+    "image": "/images/crostata-di-frutta.jpg",
+    "wiki": [
+      "Crostata"
+    ],
+    "ingredients": [
+      "2 cups flour",
+      "1/2 cup sugar",
+      "1/2 cup cold butter",
+      "2 egg yolks",
+      "Pastry cream",
+      "Strawberries, kiwi and berries",
+      "Apricot jam for glaze"
+    ],
+    "instructions": [
+      "Rub butter into flour and sugar; bind with yolks and chill 30 minutes.",
+      "Line a tart tin and blind bake at 180°C for 20 minutes.",
+      "Fill with pastry cream and arrange the fruit.",
+      "Warm the jam and brush on top."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 50,
+    "title": "Chocolate Budino",
+    "description": "Rich Italian chocolate pudding with whipped cream.",
+    "category": "Desserts",
+    "difficulty": "Easy",
+    "time": 30,
+    "image": "/images/chocolate-budino.jpg",
+    "wiki": [
+      "Budino",
+      "Chocolate pudding"
+    ],
+    "ingredients": [
+      "2 cups milk",
+      "1/2 cup sugar",
+      "1/4 cup cocoa powder",
+      "3 tbsp cornstarch",
+      "100g dark chocolate",
+      "Pinch of salt",
+      "Whipped cream"
+    ],
+    "instructions": [
+      "Whisk sugar, cocoa, cornstarch and salt with the milk.",
+      "Cook while stirring until thick.",
+      "Melt in the chocolate until glossy.",
+      "Pour into cups, chill 2 hours and top with cream."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 51,
+    "title": "Arancini",
+    "description": "Crispy Sicilian rice balls stuffed with ragù and mozzarella.",
+    "category": "Snacks",
+    "difficulty": "Hard",
+    "time": 75,
+    "image": "/images/arancini.jpg",
+    "wiki": [
+      "Arancini"
+    ],
+    "ingredients": [
+      "2 cups cooked risotto rice, cooled",
+      "1/2 cup Parmesan",
+      "1/2 cup ragù",
+      "100g mozzarella cubes",
+      "2 eggs",
+      "1 cup breadcrumbs",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix cooled rice with Parmesan and an egg.",
+      "Shape around a spoonful of ragù and a cube of mozzarella.",
+      "Dip in beaten egg and breadcrumbs.",
+      "Fry at 175°C for 4-5 minutes until golden."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 52,
+    "title": "Garlic Bread",
+    "description": "Crusty bread with garlic-parsley butter, baked until crisp.",
+    "category": "Snacks",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/garlic-bread.jpg",
+    "wiki": [
+      "Garlic bread"
+    ],
+    "ingredients": [
+      "1 baguette or ciabatta",
+      "1/2 cup soft butter",
+      "4 garlic cloves, minced",
+      "Chopped parsley",
+      "Grated Parmesan",
+      "Salt"
+    ],
+    "instructions": [
+      "Mix butter, garlic, parsley and salt.",
+      "Slice bread and spread with the butter.",
+      "Sprinkle with Parmesan.",
+      "Bake at 200°C for 10 minutes until crisp."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 53,
+    "title": "Focaccia",
+    "description": "Dimpled, olive-oil-rich bread with rosemary and sea salt.",
+    "category": "Snacks",
+    "difficulty": "Medium",
+    "time": 180,
+    "image": "/images/focaccia.jpg",
+    "wiki": [
+      "Focaccia"
+    ],
+    "ingredients": [
+      "4 cups bread flour",
+      "1 3/4 cups warm water",
+      "2 tsp salt",
+      "2 tsp yeast",
+      "1/3 cup olive oil",
+      "Rosemary",
+      "Flaky sea salt"
+    ],
+    "instructions": [
+      "Mix flour, water, salt and yeast into a sticky dough; rest 2 hours.",
+      "Pour oil into a tray and stretch the dough in; proof 1 hour.",
+      "Dimple with oily fingers and add rosemary and salt.",
+      "Bake at 220°C for 22-25 minutes until golden."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 54,
+    "title": "Fried Mozzarella Sticks",
+    "description": "Golden breaded mozzarella with marinara dip.",
+    "category": "Snacks",
+    "difficulty": "Easy",
+    "time": 25,
+    "image": "/images/fried-mozzarella-sticks.jpg",
+    "wiki": [
+      "Mozzarella sticks"
+    ],
+    "ingredients": [
+      "250g mozzarella, cut into sticks",
+      "1/2 cup flour",
+      "2 eggs",
+      "1 cup breadcrumbs",
+      "Oil for frying",
+      "Marinara for dipping"
+    ],
+    "instructions": [
+      "Freeze the cheese sticks for 1 hour.",
+      "Coat in flour, egg, then breadcrumbs; repeat for a thick crust.",
+      "Fry at 180°C for 1-2 minutes until golden.",
+      "Serve at once with marinara."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 55,
+    "title": "Calamari Fritti",
+    "description": "Light and crispy fried squid with lemon.",
+    "category": "Snacks",
+    "difficulty": "Medium",
+    "time": 30,
+    "image": "/images/calamari-fritti.jpg",
+    "wiki": [
+      "Calamari",
+      "Fried calamari"
+    ],
+    "ingredients": [
+      "500g squid, cleaned and cut into rings",
+      "1 cup flour",
+      "1/2 cup semolina",
+      "Oil for frying",
+      "Salt",
+      "Lemon wedges",
+      "Parsley"
+    ],
+    "instructions": [
+      "Pat the squid dry.",
+      "Mix flour and semolina and toss the rings in it.",
+      "Fry in 190°C oil for 1-2 minutes until golden.",
+      "Season with salt and serve with lemon."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 56,
+    "title": "Bruschetta",
+    "description": "Toasted bread with garlic, olive oil and tomato.",
+    "category": "Snacks",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/bruschetta.jpg",
+    "wiki": [
+      "Bruschetta"
+    ],
+    "ingredients": [
+      "4 slices rustic bread",
+      "3 tomatoes",
+      "1 garlic clove",
+      "Basil",
+      "Extra virgin olive oil",
+      "Sea salt"
+    ],
+    "instructions": [
+      "Toast or grill the bread.",
+      "Rub with garlic.",
+      "Top with chopped salted tomatoes and basil.",
+      "Finish with olive oil."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 57,
+    "title": "Grissini",
+    "description": "Thin, crisp breadsticks from Turin.",
+    "category": "Snacks",
+    "difficulty": "Medium",
+    "time": 60,
+    "image": "/images/grissini.jpg",
+    "wiki": [
+      "Grissini",
+      "Breadstick"
+    ],
+    "ingredients": [
+      "3 cups flour",
+      "1 cup water",
+      "2 tsp yeast",
+      "1/4 cup olive oil",
+      "1 tsp salt",
+      "Semolina for rolling"
+    ],
+    "instructions": [
+      "Knead all ingredients to a smooth dough; rest 30 minutes.",
+      "Cut into strips and roll thin on semolina.",
+      "Bake at 200°C for 15 minutes until crisp and golden."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 3
+      },
+      {
+        "userId": -3,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 58,
+    "title": "Panzerotti",
+    "description": "Puglian fried pockets filled with tomato and mozzarella.",
+    "category": "Snacks",
+    "difficulty": "Medium",
+    "time": 60,
+    "image": "/images/panzerotti.jpg",
+    "wiki": [
+      "Panzerotti",
+      "Calzone"
+    ],
+    "ingredients": [
+      "3 cups flour",
+      "1 cup warm water",
+      "1 tsp yeast",
+      "1 tsp salt",
+      "1 cup tomato sauce",
+      "200g mozzarella",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Make a soft dough; rise 1 hour.",
+      "Roll thin and cut rounds.",
+      "Fill with sauce and mozzarella, fold and seal firmly.",
+      "Fry at 180°C until puffed and golden."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 4
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 5
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 59,
+    "title": "Olive all'Ascolana",
+    "description": "Fried olives stuffed with seasoned meat from Ascoli Piceno.",
+    "category": "Snacks",
+    "difficulty": "Hard",
+    "time": 90,
+    "image": "/images/olive-all-ascolana.jpg",
+    "wiki": [
+      "Olive all'ascolana",
+      "Stuffed olives"
+    ],
+    "ingredients": [
+      "24 large green olives, pitted",
+      "200g mixed ground meat",
+      "1/4 cup Parmesan",
+      "1 egg",
+      "Nutmeg",
+      "Flour, egg and breadcrumbs to coat",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Brown the meat and mix with Parmesan, egg and nutmeg.",
+      "Stuff each olive with the meat mixture.",
+      "Coat in flour, egg and breadcrumbs.",
+      "Fry at 175°C for 3 minutes until golden."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 4
+      },
+      {
+        "userId": -3,
+        "value": 4
+      },
+      {
+        "userId": -4,
+        "value": 5
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  },
+  {
+    "id": 60,
+    "title": "Parmesan Crisps",
+    "description": "Lacy, crunchy baked Parmigiano-Reggiano crisps.",
+    "category": "Snacks",
+    "difficulty": "Easy",
+    "time": 15,
+    "image": "/images/parmesan-crisps.jpg",
+    "wiki": [
+      "Frico",
+      "Parmesan crisps"
+    ],
+    "ingredients": [
+      "1 1/2 cups finely grated Parmigiano-Reggiano",
+      "Black pepper",
+      "Dried oregano"
+    ],
+    "instructions": [
+      "Heat oven to 200°C and line a tray with baking paper.",
+      "Mound tablespoons of cheese and flatten slightly.",
+      "Sprinkle with pepper and oregano.",
+      "Bake 5-6 minutes until golden; cool to crisp."
+    ],
+    "ratings": [
+      {
+        "userId": -1,
+        "value": 5
+      },
+      {
+        "userId": -2,
+        "value": 5
+      },
+      {
+        "userId": -3,
+        "value": 4
+      }
+    ],
+    "author": "The Culinary Corner",
+    "authorId": 0
+  }
+]
