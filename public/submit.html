@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Culinary Corner - Submit Recipe</title><link rel="icon" href="images/logo.png"><link rel="icon" href="images/favicon.png"><link rel="stylesheet" href="css/style.css"></head>
+<body data-page="submit"><header id="nav"></header>
+<main class="container narrow">
+  <h1>Submit a Recipe</h1>
+  <form id="form" class="panel">
+    <label>Title *<input id="title" required></label>
+    <label>Short description<input id="description"></label>
+    <div class="row">
+      <label>Category *<select id="category" required></select></label>
+      <label>Difficulty<select id="difficulty"><option>Easy</option><option>Medium</option><option>Hard</option></select></label>
+      <label>Cooking time (min) *<input id="time" type="number" min="1" required></label>
+    </div>
+    <label>Image URL (optional)<input id="image" placeholder="https://…"></label>
+    <label>Ingredients * (one per line)<textarea id="ingredients" rows="6" required></textarea></label>
+    <label>Instructions * (one step per line)<textarea id="instructions" rows="7" required></textarea></label>
+    <button class="btn">Publish Recipe</button> <span id="msg" class="error"></span>
+  </form>
+</main>
+<footer>© 2026 The Culinary Corner · Italian Food · Cook. Share. Savor.</footer><script src="js/main.js"></script></body></html>

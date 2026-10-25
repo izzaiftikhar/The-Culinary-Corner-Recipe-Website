@@ -1,0 +1,9 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Image check (dev only)</title>
+<style>body{font-family:system-ui;margin:1rem;background:#fffaf5}h1{margin:.2rem 0}.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:.8rem}
+.c{background:#fff;border:1px solid #eadccc;border-radius:10px;overflow:hidden;font-size:.8rem}.c img{width:100%;height:140px;object-fit:cover;display:block;background:#fde7d3}
+.c div{padding:.4rem .6rem}.c b{display:block}.c code{color:#c2410c}</style></head><body>
+<h1>Image check <small style="font-weight:400">(dev page, delete before deploying)</small></h1>
+<p>Spot any wrong photo? Copy its <code>slug</code> and add <code>"slug": "https://direct-image-link.jpg"</code> to <code>data/image-overrides.json</code>, then run <code>npm run images:redo</code>.</p>
+<div class="g" id="g"></div>
+<script>fetch('/api/recipes').then(r=>r.json()).then(l=>{document.getElementById('g').innerHTML=l.map(r=>{const slug=r.image.split('/').pop().replace(/\.\w+$/,'');
+return `<div class="c"><img src="${r.image}" loading="lazy"><div><b>${r.title}</b><code>${slug}</code></div></div>`}).join('')})</script></body></html>
